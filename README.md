@@ -1,4 +1,4 @@
-# Projeto-de-Análise-de-vendas-com-Python-simulacao
+# Projeto de Análise de vendas com Python (simulação)
 
 
 🎯 Objetivo
